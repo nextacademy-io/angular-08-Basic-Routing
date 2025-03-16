@@ -1,5 +1,11 @@
 # Angular Workshop: Basic Routing
 
+
+
+https://github.com/user-attachments/assets/f4848f13-0ed1-4984-9167-a4c61f3eac29
+
+
+
 In this task, you'll use some basic routing capabilities. We'll create a NavbarComponent with two `navLinks`: `Clashes` and `Users`.
 We also introduce two new components as entry point for each of this use cases: `ClashListComponent` and `UsersListComponent`. By default, the user will be redirected to the `/clashes` route.
 
